@@ -53,7 +53,7 @@ Conducted a detailed forensic analysis of a LAN segment network traffic capture 
 - **Remote Hostname & User:** `candice.tucker`
 
   
-##Screenshots
+## Screenshots
 ![Screenshot 2025-05-29 193816](https://github.com/user-attachments/assets/05fd263f-3106-4aec-bf5c-535f700a37fa)
 ![Screenshot 2025-05-29 193939](https://github.com/user-attachments/assets/83371247-0581-4492-877f-444583a5f040)
 
